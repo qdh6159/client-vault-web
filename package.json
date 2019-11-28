@@ -10,7 +10,8 @@
     "cors": "^2.8.4",
     "mongoose": "^5.4.6",
     "express": "^4.17.1",
-    "body-parser": "^1.19.0"
+    "body-parser": "^1.19.0",
+    "reactstrap": "^8.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
